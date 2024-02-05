@@ -1,4 +1,5 @@
 <h3>Olá! Eu so a Lilian Graciano👋</h3>
+💻 Estudante de Análise e Desenvolvimento de Sistemas
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lilian-graciano/)
 
