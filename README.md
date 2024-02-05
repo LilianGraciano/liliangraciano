@@ -7,23 +7,11 @@
 <h2>Tecnologia que uso no meu dia a dia.</h2>
 
 <div style="display: inline_block">
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</div>
-
-<div style="display: inline_block">
+<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</div>
-
-<div style="display: inline_block">
 <img align="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</div>
-
-<div style="display: inline_block">
 <img align="center" alt="JavaScript" src="    https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</div>
-
-<div style="display: inline_block">
 <img align="center" alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
  
-<h3>Descobri na tecnologia uma paixão e a cada linha de código é uma expressão do meu comprometimento com um caminho repleto de inovação e desafios superados.</h3>
+Descobri na tecnologia uma paixão e a cada linha de código é uma expressão do meu comprometimento com um caminho repleto de inovação e desafios superados.
