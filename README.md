@@ -19,4 +19,4 @@
 <br/>
 <br/>
  
-Descobri na tecnologia uma paixão e a cada linha de código é uma expressão do meu comprometimento com um caminho repleto de inovação e desafios superados.
+Descobri na tecnologia uma paixão e a cada linha de código é uma expressão do meu comprometimento com um caminho  de inovação e desafios superados.
